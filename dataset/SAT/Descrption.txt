@@ -1,0 +1,1 @@
+This is a real-world anonymous industrial sensor dataset. We will publish the information once authorisation has been obtained.

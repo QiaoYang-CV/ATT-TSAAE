@@ -1,0 +1,3 @@
+SKAB is designed for evaluating algorithms for anomaly detection. 
+The datasets represent a multivariate time series collected from the sensors installed on the testbed.
+You can get SKAB from https://github.com/waico/SKAB.

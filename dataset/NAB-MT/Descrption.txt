@@ -1,0 +1,5 @@
+Temperature sensor data of an internal component of a large, industrial mahcine. 
+The first anomaly is a planned shutdown of the machine.
+ The second anomaly is difficult to detect and directly led to the third anomaly, a catastrophic failure of the machine.
+
+You can get this dataset from https://github.com/numenta/NAB
